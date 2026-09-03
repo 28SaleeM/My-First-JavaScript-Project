@@ -1,4 +1,3 @@
-=========
 QUESTIONS
 =========
 1. Project title
@@ -19,7 +18,6 @@ QUESTIONS
     index.html, README.md, script.js, style.css
 
 
-===================
 ERROR INVESTIGATION
 ===================
 1. The error message
@@ -38,7 +36,6 @@ ERROR INVESTIGATION
     Change <main back to <main>
 
 
-============
 SHORT ANSWER
 ============
 1. What part of the setup process was easiest?
